@@ -44,3 +44,15 @@ code {
   margin: 50px auto;
   padding: 50px;
 }
+
+.main {
+  width: 800px;
+  padding: 50px;
+  margin: 50px auto;
+  background-color: #f0f0ff;
+  border-radius: 10px;
+}
+
+th {
+  text-align: left;
+}
